@@ -1,0 +1,16 @@
+name: 'Paragraph split text'
+description: 'Paragraph split text.'
+package: Paragraphs
+type: module
+# core: 8.x
+hidden: true
+
+dependencies:
+  - drupal:ckeditor
+  - paragraphs:paragraphs
+
+# Information added by Drupal.org packaging script on 2019-03-21
+version: '8.x-2.36'
+core: '8.x'
+project: 'thunder'
+datestamp: 1553157499
